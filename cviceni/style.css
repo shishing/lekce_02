@@ -1,17 +1,16 @@
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 *,
 *::before,
 *::after {
-    box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 /*
-    background image: https://picsum.photos/1200/300
-    primary color: hsla(160, 50%, 50%, 1);
-    primary: #40bf95;
-    dark: #003322;
-    semi-transparent: #40bf9599;
+  background image: https://picsum.photos/1200/300
+  primary: #40bf95;
+  dark: #003322;
+  semi-transparent: #40bf9599;
 */
