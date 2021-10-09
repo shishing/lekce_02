@@ -21,7 +21,6 @@ podzim 2021, Praha
 1. Odkazy podbarvi průsvitnou barvou.
 1. Do záhlaví přidej obrázek na pozadí (URL v komentáři v CSS).
 1. Aby byl obrázek vidět, nastav záhlaví minimální výšku.
-1. Záhlaví nastav rozdílný horizontální a vertikální padding.
 1. Zvětši a vycentruj hlavní nadpis stránky.
 
 **Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav
@@ -31,6 +30,7 @@ podzim 2021, Praha
 
 ## Cvičení 03
 
+1. Záhlaví nastav rozdílný horizontální a vertikální padding.
 1. Omez šířku stránky a stránku vycentruj (zarovnej na střed).
 1. Prvek `main` podbarvi shodnou barvou jako odkazy v navigaci. Nastav mu padding.
 1. Podbarvi všechny `section` primární barvou. Přidej jim padding.
