@@ -23,7 +23,7 @@ podzim 2021, Praha
 1. Aby byl obrázek vidět, nastav záhlaví minimální výšku.
 1. Zvětši a vycentruj hlavní nadpis stránky.
 
-**Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav
+**Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav.
 **Bonus 2**: Odkazy v navigaci mění po najetí myši pobarvení na plnou (neprůsvitnou barvu).
 
 ---
