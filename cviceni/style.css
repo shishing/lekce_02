@@ -14,3 +14,51 @@ html {
   dark: #003322;
   semi-transparent: #40bf9599;
 */
+
+
+header{
+  text-align: center;
+  background-image: url(https://picsum.photos/1200/300);
+  background-size: cover;
+  min-height: 15rem; 
+  padding: 5rem 3rem;
+
+
+}
+
+h1{
+  font-size: 5rem;
+  color: aliceblue;
+  margin: 0;
+}
+
+nav li{
+  display: inline-block;
+
+}
+
+nav a{
+  text-decoration: none;
+  color: black;
+  background-color:#40bf9599;
+}
+
+nav a:hover{
+  background-color: blueviolet;
+}
+
+body{
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+main{
+  background-color: #40bf9599;
+padding: 5rem;
+}
+
+section{
+  background-color: #40bf9599;
+  padding: 3rem 2rem;
+  border-bottom: 5px dotted #003322;
+}
