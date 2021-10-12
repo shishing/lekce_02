@@ -68,6 +68,11 @@ section img{
   width: 175px;
   float: right;
 }
+
 h3{
   clear: right;
+}
+
+section{
+  display: flow-root;
 }
