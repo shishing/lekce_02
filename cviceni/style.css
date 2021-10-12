@@ -62,3 +62,12 @@ section{
   padding: 3rem 2rem;
   border-bottom: 5px dotted #003322;
 }
+
+
+section img{
+  width: 175px;
+  float: right;
+}
+h3{
+  clear: right;
+}
